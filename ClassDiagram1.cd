@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TelegramMemBot.Comands.Admin.ChangeMemeNameCommand">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\Admin\ChangeMemeNameCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.Admin.DeleteMemeCommand" Collapsed="true">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\Admin\DeleteMemeCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.Admin.DownloadNewMemeCommand" Collapsed="true">
+    <Position X="16.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\Admin\DownloadNewMemeCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.Admin.NewMemCommand" Collapsed="true">
+    <Position X="16.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\Admin\NewMemCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.Admin.RemoveCommand" Collapsed="true">
+    <Position X="16.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\Admin\RemoveCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.Admin.ReplacementCommand" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\Admin\ReplacementCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.AudioMemesCommand" Collapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\AudioMemesCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.CallbackQueryCommand">
+    <Position X="22" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Comands\CallbackQueryCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.Command">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.FindByTemplateCommand">
+    <Position X="16.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\FindByTemplateCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.PictureMemesCommand" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\PictureMemesCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.RandomMemeCommand" Collapsed="true">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\RandomMemeCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.StartCommand" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\StartCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Comands.TemplateCommand" Collapsed="true">
+    <Position X="16.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Comands\TemplateCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Constants.TelegramSettings">
+    <Position X="22" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAQAQAAACAIAAAAAAAABAAA=</HashCode>
+      <FileName>Constants\TelegramSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Services.AdminService">
+    <Position X="18.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAACAIAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Services\AdminService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Services.BotService">
+    <Position X="20.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAgAIAAABAQAQAAAAAAAAAAACAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Services\BotService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelegramMemBot.Program">
+    <Position X="18.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAQAAgAAAAAAAAAAEAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
