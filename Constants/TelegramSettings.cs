@@ -6,14 +6,14 @@ namespace TelegramMemBot.Constants
     {
         public static string Name { get; } = "EchoMemoBot";
 
-        public static string Token { get; } = "1679545088:AAEPC1deqM6eAUSUf5Lq5VLXboDKYfSFXGM";
+        public static string Token { get; } = "_";
 
         public static TimeSpan Timeout { get; } = TimeSpan.FromSeconds(10);
 
-        public static int AdminId { get; } = 319746163;
+        public static int AdminId { get; } = _;
 
-        public static string AdminName { get; } = "big_mac_tape";
+        public static string AdminName { get; } = _;
 
-        public static string AdminFirstName { get; } = "ndr";
+        public static string AdminFirstName { get; } = _;
     }
 }
